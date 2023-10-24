@@ -1,1 +1,18 @@
+body {
+ background: #CCCCCC
+}
 
+h1{
+    color : purple
+
+
+} 
+
+p {
+    text-align: center
+
+}   
+
+em strong {
+    color:aquamarine
+}
