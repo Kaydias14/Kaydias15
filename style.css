@@ -6,6 +6,9 @@ body {
       width: 100% 
 }
     color : purple
+    .Principal {
+   
+    }
 h1{
 
 } 
@@ -21,4 +24,17 @@ p {
 }
 em strong {
     color:aquamarine
+}
+
+
+
+.itens{
+font-style: italic;
+}
+
+.beneficios{
+background: #FFFFFF;
+}
+h2{
+  text-align: center;
 }
